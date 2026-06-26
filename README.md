@@ -2,12 +2,14 @@
 
 ## 1. Proje Bilgileri
 
-**Proje Adı:** SmartChef AI - Dijital Mutfak Şefi
-**Öğrenci Adı Soyadı:** Merve Sağlık
-**Öğrenci Numarası:** 24010509098
-**Proje Türü:** Mobil Uygulama
-**Geliştirme Ortamı:** Flutter / Android Studio
-**GitHub Proje Bağlantısı:** https://github.com/mervesaglik74-byte/smartchef_ai
+| Bilgi | Açıklama |
+|---|---|
+| Proje Adı | SmartChef AI - Dijital Mutfak Şefi |
+| Öğrenci Adı Soyadı | Merve Sağlık |
+| Öğrenci Numarası | 24010509098 |
+| Proje Türü | Mobil Uygulama |
+| Geliştirme Ortamı | Flutter / Android Studio |
+| GitHub Proje Bağlantısı | https://github.com/mervesaglik74-byte/smartchef_ai |
 
 ---
 
